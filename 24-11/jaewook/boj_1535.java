@@ -5,6 +5,7 @@ import java.util.StringTokenizer;
 
 // 안녕
 // 단순하게 백트래킹
+// todo: dp로 변경
 public class Main {
     static int answer = 0;
     static boolean[] visited;
