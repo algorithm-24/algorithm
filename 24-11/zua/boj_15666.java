@@ -22,9 +22,7 @@ public class boj_15666 {
         Arrays.sort(arr);
 
         int[] sequence = new int[m];
-        StringBuilder sb = new StringBuilder();
-
-        // 초기 깊이 : 0, 탐색 시작 위치: 0
+        StringBuilder sb = new StringBuilder();// 초기 깊이 : 0, 탐색 시작 위치: 0
         backtrack(arr, sequence, 0, 0, m, sb);
 
         System.out.println(sb);
