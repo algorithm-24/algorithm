@@ -1,9 +1,11 @@
+package week1;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.*;
 
-public class Q_13905 {
+public class boj_13905 {
     static final int INF = Integer.MAX_VALUE;
     static int N, M, s, e;
     static List<Edge>[] edges;
@@ -77,7 +79,3 @@ public class Q_13905 {
         }
     }
 }
-
-/*
-130612 KB / 788 ms
- */

@@ -1,3 +1,5 @@
+package week2;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -48,6 +50,3 @@ public class boj_15666 {
         }
     }
 }
-/*
-14508 KB / 112 ms
- */
