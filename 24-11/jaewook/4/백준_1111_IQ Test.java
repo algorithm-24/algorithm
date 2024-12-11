@@ -9,6 +9,7 @@ import java.util.StringTokenizer;
  * @classfication: brute-force
  * @문제 푼 날짜 (자력으로 풂?): 24.12.03 (X)
  **/
+// 수학이 아닌 브루트포스로 풀어버림
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
