@@ -9,7 +9,7 @@ public class Boj_1022 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        // 입력 받기
+        // 입력 받기`w
         int r1 = Integer.parseInt(st.nextToken());
         int c1 = Integer.parseInt(st.nextToken());
         int r2 = Integer.parseInt(st.nextToken());
